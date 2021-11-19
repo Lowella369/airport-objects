@@ -1,0 +1,24 @@
+{
+  "name": "airport-objects",
+  "version": "1.0.0",
+  "description": "tet",
+  "main": "airport.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest",
+    "test:report": "jest --coverage=true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lowella369/airport-objects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lowella369/airport-objects/issues"
+  },
+  "homepage": "https://github.com/Lowella369/airport-objects#readme"
+}
