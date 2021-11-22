@@ -1,7 +1,9 @@
-class Crew {
-    constructor(name, id, position){
-        this.name = name
-        this.id = id
+const Person = require('./person')
+
+class Crew extends Person{
+    constructor(name, bags, statffNumber, position){
+        super(name,bags)
+        this.staffNumber = statffNumber
         this.position = position
     }
 }

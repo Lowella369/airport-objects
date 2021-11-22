@@ -10,6 +10,9 @@
     "test": "jest",
     "test:report": "jest --coverage=true"
   },
+  "dependencies": {
+    "jest": "^26.4.2"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Lowella369/airport-objects.git"
